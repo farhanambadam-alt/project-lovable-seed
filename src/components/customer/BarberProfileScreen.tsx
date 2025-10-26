@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { ArrowLeft, Heart, Star, MapPin, Clock, Phone, Mail, Play, Flame, Award, TrendingUp } from 'lucide-react';
 import { ImageWithFallback } from '../figma/ImageWithFallback';
-import { Button } from '../ui/button';
+import { Button ggggggggggggggggggggggggggggggggggggggg} from '../ui/button';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '../ui/tabs';
 import { Card } from '../ui/card';
 import { Badge } from '../ui/badge';
